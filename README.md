@@ -10,6 +10,14 @@ Uma aplicação web desenvolvida em Django para gerenciar uma livraria. Com este
 - **Cadastro de Usuários**: Usuários podem se registrar na plataforma.
 - **Autenticação**: Apenas usuários autenticados podem adicionar, atualizar ou deletar livros.
 - **CRUD de Livros**: Funções de criar, visualizar, editar e excluir livros.
+![image](https://github.com/user-attachments/assets/c51c492d-422f-42f7-b3b3-69e5e523cfd6)
+
+![image](https://github.com/user-attachments/assets/3e1f09e9-a343-484f-b1e6-b9210dace623)
+
+![image](https://github.com/user-attachments/assets/f61456da-fb4b-4ddb-9cf3-06294d20710b)
+
+
+
 - **Sistema de Mensagens**: Feedbacks visuais para operações de sucesso ou erro.
 
 ## 🚀 Tecnologias Utilizadas
