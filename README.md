@@ -22,8 +22,13 @@ Uma aplicação web desenvolvida em Django para gerenciar uma livraria. Com este
 
 ##🛠️ Uso
 Para registrar um usuário, acesse a página de cadastro.
+![image](https://github.com/user-attachments/assets/d0baeb67-720d-4e27-aed6-d40d5aa64abe)
 Após autenticado, você pode adicionar, editar e remover livros.
 As operações realizadas são acompanhadas de mensagens de feedback.
+![image](https://github.com/user-attachments/assets/700962ec-ada1-4664-8b78-27a36526b90e)
+
+
+
 
 
 ## 🛠️ Uso
@@ -31,6 +36,9 @@ As operações realizadas são acompanhadas de mensagens de feedback.
 - Para **registrar um usuário**, acesse a página de cadastro.
 - Após autenticado, você pode **adicionar, editar e remover livros**.
 - As operações realizadas são acompanhadas de **mensagens de feedback**.
+
+
+
 
 ## 📄 Arquivos Importantes
 
