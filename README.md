@@ -17,16 +17,20 @@ Uma aplicação web desenvolvida em Django para gerenciar uma livraria. Com este
 - **SQLite**: Banco de dados utilizado no desenvolvimento.
 - **Django Messages**: Sistema de mensagens para feedback ao usuário.
 
-🛠️ Uso
+##🛠️ Uso
 Para registrar um usuário, acesse a página de cadastro.
 Após autenticado, você pode adicionar, editar e remover livros.
 As operações realizadas são acompanhadas de mensagens de feedback.
-📄 Arquivos Importantes
+
+
+##📄 Arquivos Importantes
 settings.py: Configurações do projeto Django.
 urls.py: Configuração das rotas.
 models.py: Definição dos modelos (ex: Book).
 forms.py: Formulários utilizados na aplicação.
 views.py: Lógica das views que controlam o comportamento do sistema.
-📜 Licença
+
+
+##📜 Licença
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
