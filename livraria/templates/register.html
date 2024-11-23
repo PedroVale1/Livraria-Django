@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2 class="text-center">Cadastro de Usuário</h2>
+    <hr>
+    <form method="POST" action="{% url 'register' %}">
+        {% csrf_token %}
+        {% if form.errors %}
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                Seu formulario possui erros
+                {% for field in form%}
+                    {% if field.errors %}
+                        {{field.errors}}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        {% endif %}
+        {{ form.as_p }}
+        <br>
+        <button type="submit" class="btn btn-primary">Cadastrar</button>
+    </form>
+{% endblock %}
